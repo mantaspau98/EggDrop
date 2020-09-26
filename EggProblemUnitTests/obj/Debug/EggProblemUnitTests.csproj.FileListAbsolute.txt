@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\EggProblemUnitTests.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\EggProblemUnitTests.pdb
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\EggDrop.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\EggDrop.pdb
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\obj\Debug\EggProblemUnitTests.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\obj\Debug\EggProblemUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\obj\Debug\EggProblemUnitTests.csproj.CopyComplete
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\obj\Debug\EggProblemUnitTests.dll
+C:\Users\Asus\source\repos\EggDrop\EggProblemUnitTests\obj\Debug\EggProblemUnitTests.pdb

@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\EggDrop\EggDrop\bin\Debug\netstandard2.0\EggDrop.deps.json
+C:\Users\Asus\source\repos\EggDrop\EggDrop\bin\Debug\netstandard2.0\EggDrop.dll
+C:\Users\Asus\source\repos\EggDrop\EggDrop\bin\Debug\netstandard2.0\EggDrop.pdb
+C:\Users\Asus\source\repos\EggDrop\EggDrop\obj\Debug\netstandard2.0\EggDrop.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\EggDrop\EggDrop\obj\Debug\netstandard2.0\EggDrop.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EggDrop\EggDrop\obj\Debug\netstandard2.0\EggDrop.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EggDrop\EggDrop\obj\Debug\netstandard2.0\EggDrop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EggDrop\EggDrop\obj\Debug\netstandard2.0\EggDrop.dll
+C:\Users\Asus\source\repos\EggDrop\EggDrop\obj\Debug\netstandard2.0\EggDrop.pdb
